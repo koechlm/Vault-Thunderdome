@@ -8,7 +8,7 @@ This program allows data to be pushed to Vault clients.  It also allows a user t
 
 REQUIREMENTS:
 ---------------------------------
-- Vault Workgroup/Professional 2015
+- Vault Workgroup/Professional 2018
 
 
 TO CREATE DEPLOYMENTS (ADMIN):
@@ -48,6 +48,8 @@ NOTES:
 
 RELEASE NOTES:
 ---------------------------------
+2018.0.1.0 - Added Support for VDS (Vault Data Standard) Quickstart HelpFiles.
+2018.0.0.0 - Updated for Vault 2018. - Note Thunderdome is no longer distributed as an Autodesk Exchange Application. Technical Sales D&M Team EMEA continues to maintain the project as SDK sample.
 5.0.1.0 - Updated for Vault 2015.  Added support for Data Standard customizations (but not the Data Standard extension itself).  Removed support for vLogic.  Thunderdome will only deploy extensions from
 the same Vault version (ex. Thunderdome 2015 will not deploy a 2014 extension).
 4.0.3.0 - Fixed issue where saved searches didn't show up for sites where ADMS and AVFS are not on the same server.
