@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Thunderdome 2018")]
-[assembly: AssemblyDescription("A SDK sample managing user settings and VDS configuration")]
+[assembly: AssemblyDescription("A SDK sample managing user settings and VDS Quickstart configuration")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Autodesk Technical Sales D&M - EMEA")]
 [assembly: AssemblyProduct("Thunderdome SDK Sample")]
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("2018.0.0.0")]
-[assembly: AssemblyFileVersion("2018.0.0.0")]
+[assembly: AssemblyVersion("2018.0.1.0")]
+[assembly: AssemblyFileVersion("2018.0.1.0")]
