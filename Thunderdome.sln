@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deploy", "Deploy\Deploy.csproj", "{924FA763-D25D-447C-A34D-BDE5D496068A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thunderdome", "Thunderdome\Thunderdome.csproj", "{5209F811-E8D2-4B59-A4D4-9BE9FCDD6004}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{924FA763-D25D-447C-A34D-BDE5D496068A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{924FA763-D25D-447C-A34D-BDE5D496068A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{924FA763-D25D-447C-A34D-BDE5D496068A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{924FA763-D25D-447C-A34D-BDE5D496068A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5209F811-E8D2-4B59-A4D4-9BE9FCDD6004}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5209F811-E8D2-4B59-A4D4-9BE9FCDD6004}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5209F811-E8D2-4B59-A4D4-9BE9FCDD6004}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5209F811-E8D2-4B59-A4D4-9BE9FCDD6004}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
