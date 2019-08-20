@@ -48,6 +48,7 @@ NOTES:
 
 RELEASE NOTES:
 ---------------------------------
+2020.25.0.0 - Updated for Vault 2020
 2018.0.1.0 - Added Support for VDS (Vault Data Standard) Quickstart HelpFiles.
 2018.0.0.0 - Updated for Vault 2018. - Note Thunderdome is no longer distributed as an Autodesk Exchange Application. Technical Sales D&M Team EMEA continues to maintain the project as SDK sample.
 5.0.1.0 - Updated for Vault 2015.  Added support for Data Standard customizations (but not the Data Standard extension itself).  Removed support for vLogic.  Thunderdome will only deploy extensions from

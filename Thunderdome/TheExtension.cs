@@ -28,7 +28,7 @@ using VDF = Autodesk.DataManagement.Client.Framework;
 
 using ICSharpCode.SharpZipLib.Zip;
 
-[assembly: ApiVersion("11.0")]
+[assembly: ApiVersion("13.0")]
 [assembly: ExtensionId("2AAE56F1-3E44-4B69-8AF0-15566D7A2E49")]
 
 namespace Thunderdome

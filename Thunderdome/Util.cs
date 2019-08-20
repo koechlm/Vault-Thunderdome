@@ -28,10 +28,10 @@ namespace Thunderdome
 {
     public class Util
     {
-        private static string COMMON_FOLDER_1 = "Services_Security_1_22_2014";
+        private static string COMMON_FOLDER_1 = "Services_Security_1_7_2019";
         private static string COMMON_FOLDER_2 = "Services_Security_6_29_2011";
-        private static string VAULT_PRO_FOLDER_NAME = "Autodesk Vault Professional 2018";
-        private static string VAULT_WG_FOLDER_NAME = "Autodesk Vault Workgroup 2018";
+        private static string VAULT_PRO_FOLDER_NAME = "Autodesk Vault Professional 2020";
+        private static string VAULT_WG_FOLDER_NAME = "Autodesk Vault Workgroup 2020";
 
         public static void DoAction(Action a)
         {
