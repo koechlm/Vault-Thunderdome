@@ -511,11 +511,11 @@ namespace Thunderdome
                     string folderName = System.IO.Path.GetFileName(folder);
                     if (folderName.Equals("Vault", StringComparison.InvariantCultureIgnoreCase))
                         container.DeploymentItems.Add(new DeploymentFolder(folder, "Vault"));
-                    else if (folderName.Equals("CAD", StringComparison.InvariantCultureIgnoreCase))
+                    else if (folderName.Equals("Vault.Custom", StringComparison.InvariantCultureIgnoreCase))
                         container.DeploymentItems.Add(new DeploymentFolder(folder, "Vault.Custom"));
                     else if (folderName.Equals("CAD", StringComparison.InvariantCultureIgnoreCase))
                         container.DeploymentItems.Add(new DeploymentFolder(folder, "CAD"));
-                    else if (folderName.Equals("CAD", StringComparison.InvariantCultureIgnoreCase))
+                    else if (folderName.Equals("CAD.Custom", StringComparison.InvariantCultureIgnoreCase))
                         container.DeploymentItems.Add(new DeploymentFolder(folder, "CAD.Custom"));
                     else if (folderName.Equals("HelpFiles", StringComparison.InvariantCultureIgnoreCase))
                         container.DeploymentItems.Add(new DeploymentFolder(folder, "HelpFiles"));
