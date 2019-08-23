@@ -512,7 +512,11 @@ namespace Thunderdome
                     if (folderName.Equals("Vault", StringComparison.InvariantCultureIgnoreCase))
                         container.DeploymentItems.Add(new DeploymentFolder(folder, "Vault"));
                     else if (folderName.Equals("CAD", StringComparison.InvariantCultureIgnoreCase))
+                        container.DeploymentItems.Add(new DeploymentFolder(folder, "Vault.Custom"));
+                    else if (folderName.Equals("CAD", StringComparison.InvariantCultureIgnoreCase))
                         container.DeploymentItems.Add(new DeploymentFolder(folder, "CAD"));
+                    else if (folderName.Equals("CAD", StringComparison.InvariantCultureIgnoreCase))
+                        container.DeploymentItems.Add(new DeploymentFolder(folder, "CAD.Custom"));
                     else if (folderName.Equals("HelpFiles", StringComparison.InvariantCultureIgnoreCase))
                         container.DeploymentItems.Add(new DeploymentFolder(folder, "HelpFiles"));
                     else if (regex1.IsMatch(folderName) || regex2.IsMatch(folderName))
