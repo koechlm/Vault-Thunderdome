@@ -1,5 +1,5 @@
-PROJECT THUNDERDOME
-
+PROJECT THUNDERDOME 2016..2020
+(For Thunderdome Sample 2022 and newer goto: https://github.com/koechlm/Vault-Thunderdome-Sample)
 
 INTRODUCTION:
 ---------------------------------
