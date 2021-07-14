@@ -8,7 +8,7 @@ This program allows data to be pushed to Vault clients.  It also allows a user t
 
 REQUIREMENTS:
 ---------------------------------
-- Vault Workgroup/Professional 2018
+- Vault Workgroup/Professional 2020
 
 
 TO CREATE DEPLOYMENTS (ADMIN):
@@ -48,6 +48,7 @@ NOTES:
 
 RELEASE NOTES:
 ---------------------------------
+2022 and future releases are significantly extended and moved to a new repository: https://github.com/koechlm/Vault-Thunderdome-Sample
 2020.25.0.1 - Updated for Vault 2020. Added support for VDS Customization Folders (*.Custom).
 2018.0.1.0 - Added support for VDS (Vault Data Standard) Quickstart HelpFiles.
 2018.0.0.0 - Updated for Vault 2018. - Note Thunderdome is no longer distributed as an Autodesk Exchange Application. Technical Sales D&M Team EMEA continues to maintain the project as SDK sample.
